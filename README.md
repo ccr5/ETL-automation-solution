@@ -37,7 +37,8 @@ I thought of a possible solution to this problem. I presented the idea and they 
 contacts to me so that, as soon as we returned from the trip, it was developed and sent to analyze 
 the feasibility.
 
-This repository has the solution and the proposal / storytelling sent to them, removing confidential 
+This repository has the [solution](https://github.com/ccr5/ETL-automation-solution/tree/master/scripts) 
+and the proposal / [storytelling](https://github.com/ccr5/ETL-automation-solution/blob/master/PropostaPlanilha.pdf) sent to them, removing confidential 
 data that is not related to the solution.
 
 
