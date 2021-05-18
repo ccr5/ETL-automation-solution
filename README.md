@@ -28,7 +28,7 @@
 
 ## About The Project
 
-During a trip to the beach, I used a ride app to get to my destination. 
+During a trip to the beach in 2019, I used a ride app to get to my destination. 
 Coincidentally, two of the people in the car worked at a technology company - 
 the area that I love - and commented about a slowness in the pre-processing stage.
 
