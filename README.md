@@ -1,35 +1,10 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-<br />
 <p align="center">
-  <a href="https://github.com/ccr5/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">project_title</h3>
-
+  <h3 align="center">ETL Automation Solution</h3>
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/ccr5/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/ccr5/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/ccr5/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/ccr5/repo_name/issues">Request Feature</a>
+    ETL solution proposal for a company
   </p>
 </p>
 
-
-
-<!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
@@ -46,118 +21,68 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+During a trip to the beach, I used a ride app to get to my destination. 
+Coincidentally, two of the people in the car worked at a technology company - 
+the area that I love - and commented about a slowness in the pre-processing stage.
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`ccr5`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+I got involved in the talk and, when I understood the company's processes, 
+I thought of a possible solution to this problem. I presented the idea and they passed their 
+contacts to me so that, as soon as we returned from the trip, it was developed and sent to analyze 
+the feasibility.
+
+This repository has the solution and the proposal / storytelling sent to them, removing confidential 
+data that is not related to the solution.
 
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [R](https://www.r-project.org/)
 
-
-
-<!-- GETTING STARTED -->
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* RStudio
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ccr5/repo_name.git
+   git clone https://github.com/ccr5/ETL-automation-solution.git
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
+2. Open using RStudio
+3. Run the files in scripts folder
 
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/ccr5/repo_name/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-
-<!-- CONTACT -->
 ## Contact
 
 Matheus Nobre Gomes - [LinkedIn](https://linkedin.com/in/mattnobre) - matt-gomes@live.com
 
-Project Link: [https://github.com/ccr5/repo_name](https://github.com/ccr5/repo_name)
-
-## Acknowledgements
-
-* []()
-* []()
-* []()
+Project Link: [https://github.com/ccr5/ETL-automation-solution](https://github.com/ccr5/ETL-automation-solution)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ccr5/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/ccr5/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ccr5/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/ccr5/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/ccr5/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/ccr5/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ccr5/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/ccr5/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/ccr5/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/ccr5/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/ccr5/ETL-automation-solution.svg?style=for-the-badge
+[contributors-url]: https://github.com/ccr5/ETL-automation-solution/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ccr5/ETL-automation-solution.svg?style=for-the-badge
+[forks-url]: https://github.com/ccr5/ETL-automation-solution/network/members
+[stars-shield]: https://img.shields.io/github/stars/ccr5/ETL-automation-solution.svg?style=for-the-badge
+[stars-url]: https://github.com/ccr5/ETL-automation-solution/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ccr5/ETL-automation-solution.svg?style=for-the-badge
+[issues-url]: https://github.com/ccr5/ETL-automation-solution/issues
+[license-shield]: https://img.shields.io/github/license/ccr5/ETL-automation-solution.svg?style=for-the-badge
+[license-url]: https://github.com/ccr5/ETL-automation-solution/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/mattnobre
